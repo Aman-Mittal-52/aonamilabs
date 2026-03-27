@@ -1,8 +1,13 @@
 import React from 'react'
+import Navbar from '@/layout/navbar'
+import Hero from '@/components/hero'
 
 function App() {
   return (
-    <div className='text-3xl font-bold underline'>App</div>
+    <div className=''>
+      <Navbar />
+      <Hero />
+    </div>
   )
 }
 
