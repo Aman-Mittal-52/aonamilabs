@@ -1,5 +1,5 @@
 import React from 'react'
-import Navbar from '@/layout/navbar'
+import Navbar from './layout/navbar'
 import Hero from '@/components/hero'
 
 function App() {
